@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#CC671D</color>
+    <color name="colorPrimaryDark">#9E4106</color>
+    <color name="colorAccent">#DA7546</color>
+    <color name="loremjit_vermelho">#CE0B20</color>
+    <color name="loremjit_background_item_chamado">#F5EFEC</color>
+</resources>

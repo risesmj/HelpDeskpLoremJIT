@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Central de Chamados</string>
+    <string name="title_activity_comentario_chamado">ComentarioChamadoActivity</string>
+    <string name="anexar_arquivo">Anexar arquivo</string>
+    <string name="vincular_usu_rio">Vincular usuário</string>
+    <string name="desvincular_usu_rio">Desvincular usuário</string>
+    <string name="anexos">Anexos</string>
+    <string name="alocar_respons_vel">Alocar responsável</string>
+    <string name="area">Área</string>
+    <string name="assunto">Assunto</string>
+    <string name="prioridade">Prioridade</string>
+    <string name="descricao">Descrição</string>
+    <string name="salvar">Salvar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="esqueceu_sua_senha">Esqueceu sua senha?</string>
+    <string name="desenvolvido_por_loremj_it">Desenvolvido por LoremJ IT</string>
+    <string name="entrar">Entrar</string>
+    <string name="manter_conectado">Manter conectado</string>
+    <string name="central_de_chamados">Central de Chamados</string>
+    <string name="senha">Senha</string>
+    <string name="usu_rio">Usuário</string>
+    <string name="comentario">Comentário</string>
+    <string name="login_invalido">Usuário ou Senha estão inválidos.</string>
+    <string name="login_nao_autenticado">"Usuário não autenticado.</string>
+
+
+    <string-array name="lista_area">
+        <item>Tecnologia da Informação</item>
+        <item>Financeiro</item>
+    </string-array>
+
+    <string-array name="lista_prioridade">
+        <item>Alta</item>
+        <item>Baixa</item>
+    </string-array>
+
+</resources>
